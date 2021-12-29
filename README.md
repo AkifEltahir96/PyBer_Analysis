@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-The purpose of this analysis is to compare and contrast financial parameters of ride-sharing data amongst different types of cities (rural, urban, suburban). First, we will create a summary table that includes data for the amount of rides, drivers, and ride fares amongst these different city types. We will use this information to collect the average fare per ride and per driver. Next, we will create a graph that shows the trends of weekly and monthly ride fare spending to analyze which months of the year yield increased ride fare spending.
+The purpose of this analysis is to compare financial parameters of ride-sharing data amongst different types of cities (rural, urban, suburban). First, we will create a summary table that includes data for the amount of rides, drivers, and ride fares amongst these different city types. We will use this information to collect the average fare per ride and per driver. Next, we will create a graph that shows the trends of weekly and monthly ride fare spending to analyze which months of the year yield increased ride fare spending.
 
 ## Results
 
